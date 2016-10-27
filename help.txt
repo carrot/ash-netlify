@@ -1,0 +1,8 @@
+netlify(1)
+
+NAME
+				netlify - Netlify API for Ash
+
+SYNOPSIS
+				netlify:create -n|--name   		the name of the site (mysite.netlify.com)
+				netlfiy:create -p|--password 	password protect the site
